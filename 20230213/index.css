@@ -1,0 +1,8 @@
+h1{
+    /* tehát ez a komment */
+    color: red;
+    background-color: green;
+}
+body{
+    background-image: url("hatter.jpg");
+}
